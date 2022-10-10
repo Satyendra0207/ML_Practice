@@ -47,3 +47,6 @@ This Project contains ipnyb file
  
 # Result
   On the basis of cluster formed  we can form our marketting strategy that will attracts the max number of customers.
+  
+  
+# https://youtu.be/LV4KYurNJJc
