@@ -5,7 +5,8 @@ This Project contains ipnyb file
 1-K_means Tutorial.ipynb on the facebook Live sellers data set 	
 
 2- K_means_Mall_customers.ipynb on Mall customer data set
- Motive- Grouping the customers of mall according to their Age, Annual Income and Spending Scores
+ 
+      Motive- Grouping the customers of mall according to their Age, Annual Income and Spending Scores
 
 # Source of Dataset - Kaggle
 1-Help taken from - Prabhat Banerjee Notebook on kaggle
@@ -35,5 +36,12 @@ Used ## google Collab for this task
 
 4-Perform Exploratory Data Analysis
 
-5
+5-Feature Scaling
 
+6-Model Building - K-means Clustering
+
+7-Optimal no of CLusters
+
+8-Visualization of clusters 
+
+9- Conclusion
