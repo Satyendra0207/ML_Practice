@@ -13,7 +13,7 @@ This Project contains ipnyb file
  2-Help taken from -Suchita Sharma Notebook on Kaggle
 
 # Platform
- Used ## google Collab for this task
+ Used google Collab for this task
 
 # Python Libraries
  1-NumPy -For Dealing with matrix and arrays 
