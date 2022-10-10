@@ -4,7 +4,7 @@ This Project contains ipnyb file
 
  1- K_means_Mall_customers.ipynb on Mall customer data set
  
-      Motive- Grouping the customers of mall according to their Age, Annual Income and Spending Scores
+      Motive- Grouping the customers of mall according to their Age, Annual Income and Spending Scores for better Marketting Strategy
 
 # Source of Dataset - Kaggle
  1-Help taken from - Prabhat Banerjee Notebook on kaggle
