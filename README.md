@@ -3,7 +3,7 @@
 In this project I have used the K- means clustering which is an unsupervised machine learning algorithm.
 This Project contains ipnyb file 
 
- 1- K_means_Mall_customers.ipynb on Mall customer data set
+ 1- * K_means_Mall_customers.ipynb * on Mall customer data set
  
       Motive- Grouping the customers of mall according to their Age, Annual Income and Spending Scores for better Marketting Strategy
 
