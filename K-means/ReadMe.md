@@ -51,3 +51,6 @@ This Project contains ipnyb file
   
 # https://youtu.be/LV4KYurNJJc
 
+
+### 2- K-means_tutorial contains basic practice code for k-means
+* Live.csv data used in practice
